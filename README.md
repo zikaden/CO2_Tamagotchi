@@ -2,7 +2,7 @@
 
 This Express app uses geolocation tracking to monitore and positively re-enforece green movement. 
 It was set up as a pair-programming project with nalipay (https://github.com/nalipay), fulfilling the requirements of 
-a basic Full-stack Web Application with a validation model, a user CRUD and an adittional CRUD model.
+a basic Full-stack Web Application with a validation model, a user CRUD and an adittional tamagotchi CRUD model.
 
 How it works:
 
