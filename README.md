@@ -6,7 +6,7 @@ a basic Full-stack Web Application with a validation model, a user CRUD and an a
 
 How it works:
 
-* you can get your own tamagotchi here: https://co2tamagotchiapp.herokuapp.com/
+* you can get your own tamagotchi here: https://co2tamagotchi-iibn2x3pq-zikaden.vercel.app/
 * sign up and create your own unique green tamagotchi
 * monitore your green movement (walking, cycling, public transport) using the tamagotchi interface
 * you may also use the geolocation tracking for monitoring
